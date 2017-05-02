@@ -8,6 +8,7 @@ After a while i found this amazing creation from Great Scott: https://www.youtub
 
 My first thought was: Why couldn't it be without an external box?
 So i started thinking how to build something like this and this is what i ended up with:
+More details and everything else: http://jannisret.wixsite.com/blog/looping-louie
 
 # Hardware
 
