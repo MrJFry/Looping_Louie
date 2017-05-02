@@ -38,11 +38,11 @@ Sroll down to the 'SSD1306 Displays' section and choose the Display you are usin
 
 ## Usage
 
-To use this you only have to plug in the Power and it would start into ~Pause Mode~.
+To use this you only have to plug in the Power and it would start into **Pause Mode**.
 When you click the button you can cycle through the modes:
-~Pause Mode~
-~Random Speed Mode~
-~Manual Speed Mode~ (fix to 100% Speet because i have not connected an potentiometer)
+- **Pause Mode**
+- **Random Speed Mode**
+- **Manual Speed Mode** (fix to 100% Speed because i have not connected an potentiometer)
 
 At the moment there is an issue with the timer in the interrupt, so you have to wait if the time is up in random mode.
 I will fix that soon.
