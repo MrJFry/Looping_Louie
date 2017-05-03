@@ -14,13 +14,13 @@ More details and everything else: http://jannisret.wixsite.com/blog/looping-loui
 
 To build this you need the following parts:
 
--Looping Louie
--Arduino Nano V3
--128 x 64 Pixel 0,96" OLED Display with I2C (SSD1306)
--L293D H-bridge
--MicroUSB breakout
--tip switch
--wires and some perfboard
+- Looping Louie
+- Arduino Nano V3
+- 128 x 64 Pixel 0,96" OLED Display with I2C (SSD1306)
+- L293D H-bridge
+- MicroUSB breakout
+- tip switch
+- wires and some perfboard
 
 ## Hardware Setup
 
